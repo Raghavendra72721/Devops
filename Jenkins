@@ -1,0 +1,9 @@
+Access to Linux System:
+---------------------------------------
+There are two types of access
+1)Console 
+2)Remote 
+The console is a direct access to an operating system when it is connected through HDMI etc.
+The second type of access is remote where you connect to your operating system remotly over the network.
+Note:If your using windows10 or newer version then you are not install putty on your computer .
+The windows newer operating has SSH built-in client oprn command prompt type ssh ip address
